@@ -1,0 +1,16 @@
+package br.com.belezadodia.entidade;
+
+public class geolocalizacao {
+	
+	private int id;
+	
+	private String estabName;
+	
+	private String geolocLatitude;
+	
+	private String geolocLongitude;
+	
+	private Boolean aceitaCupomDesc;
+	
+
+}

@@ -1,0 +1,17 @@
+package br;
+
+public class geolocalizacao {
+	
+	private int id;
+	
+	private String nome;
+	
+	private String CordsLatitude;
+	
+	private String CoordsLongitude;
+	
+	private Boolean AceitaCupomDesc;
+	
+	
+
+}

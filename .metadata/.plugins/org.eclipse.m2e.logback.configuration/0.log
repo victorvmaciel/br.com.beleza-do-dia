@@ -1,0 +1,537 @@
+2018-06-17 18:55:31,927 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-17 18:57:16,008 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.belezadodia:apiBelezadodia:0.0.1-SNAPSHOT @ C:\Users\victo\OneDrive\Documentos\api-workspace\apiBelezadodia\pom.xml.
+2018-06-17 18:57:17,296 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /apiBelezadodia/src/main/java
+2018-06-17 18:57:17,298 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /apiBelezadodia/src/main/resources
+2018-06-17 18:57:17,298 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /apiBelezadodia/src/test/java
+2018-06-17 18:57:17,299 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /apiBelezadodia/src/test/resources
+2018-06-17 18:57:18,482 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 18:57:18,535 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-17 18:57:18,536 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 18:57:18,537 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-17 18:58:44,906 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.6/maven-war-plugin-2.6.jar
+2018-06-17 18:58:45,140 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.6/maven-war-plugin-2.6.jar
+2018-06-17 18:58:46,272 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.devmedia:rest-notas:0.0.1-SNAPSHOT @ C:\Users\victo\OneDrive\Documentos\api-workspace\apiBelezadodia\pom.xml.
+2018-06-17 18:58:46,640 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/2.22.1/jersey-container-servlet-2.22.1.pom
+2018-06-17 18:58:46,745 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/2.22.1/jersey-container-servlet-2.22.1.pom
+2018-06-17 18:58:46,850 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/project/2.22.1/project-2.22.1.pom
+2018-06-17 18:58:46,936 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/project/2.22.1/project-2.22.1.pom
+2018-06-17 18:58:47,025 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/project/2.22.1/project-2.22.1.pom
+2018-06-17 18:58:47,304 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/project/2.22.1/project-2.22.1.pom
+2018-06-17 18:58:47,396 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+2018-06-17 18:58:47,483 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom
+2018-06-17 18:58:47,572 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-bom/2.4.0-b31/hk2-bom-2.4.0-b31.pom
+2018-06-17 18:58:47,660 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-bom/2.4.0-b31/hk2-bom-2.4.0-b31.pom
+2018-06-17 18:58:47,767 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.22.1/jersey-container-servlet-core-2.22.1.pom
+2018-06-17 18:58:47,854 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.22.1/jersey-container-servlet-core-2.22.1.pom
+2018-06-17 18:58:47,943 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.4.0-b31/javax.inject-2.4.0-b31.pom
+2018-06-17 18:58:48,029 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.4.0-b31/javax.inject-2.4.0-b31.pom
+2018-06-17 18:58:48,117 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/2.4.0-b31/external-2.4.0-b31.pom
+2018-06-17 18:58:48,227 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/2.4.0-b31/external-2.4.0-b31.pom
+2018-06-17 18:58:48,379 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-parent/2.4.0-b31/hk2-parent-2.4.0-b31.pom
+2018-06-17 18:58:48,493 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-parent/2.4.0-b31/hk2-parent-2.4.0-b31.pom
+2018-06-17 18:58:48,587 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.22.1/jersey-common-2.22.1.pom
+2018-06-17 18:58:48,673 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.22.1/jersey-common-2.22.1.pom
+2018-06-17 18:58:48,764 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.pom
+2018-06-17 18:58:48,852 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.pom
+2018-06-17 18:58:48,938 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.pom
+2018-06-17 18:58:49,031 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.pom
+2018-06-17 18:58:49,127 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.1/jersey-guava-2.22.1.pom
+2018-06-17 18:58:49,214 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.1/jersey-guava-2.22.1.pom
+2018-06-17 18:58:49,304 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/project/2.22.1/project-2.22.1.pom
+2018-06-17 18:58:49,393 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/project/2.22.1/project-2.22.1.pom
+2018-06-17 18:58:49,479 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/project/2.22.1/project-2.22.1.pom
+2018-06-17 18:58:49,566 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/project/2.22.1/project-2.22.1.pom
+2018-06-17 18:58:49,657 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.4.0-b31/hk2-api-2.4.0-b31.pom
+2018-06-17 18:58:49,742 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.4.0-b31/hk2-api-2.4.0-b31.pom
+2018-06-17 18:58:49,832 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.4.0-b31/hk2-utils-2.4.0-b31.pom
+2018-06-17 18:58:49,918 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.4.0-b31/hk2-utils-2.4.0-b31.pom
+2018-06-17 18:58:50,008 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b31/aopalliance-repackaged-2.4.0-b31.pom
+2018-06-17 18:58:50,095 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b31/aopalliance-repackaged-2.4.0-b31.pom
+2018-06-17 18:58:50,195 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.4.0-b31/hk2-locator-2.4.0-b31.pom
+2018-06-17 18:58:50,281 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.4.0-b31/hk2-locator-2.4.0-b31.pom
+2018-06-17 18:58:50,370 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2018-06-17 18:58:50,456 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.pom
+2018-06-17 18:58:50,543 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
+2018-06-17 18:58:50,629 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
+2018-06-17 18:58:50,720 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.pom
+2018-06-17 18:58:50,805 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.pom
+2018-06-17 18:58:50,894 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/pom/8/pom-8.pom
+2018-06-17 18:58:50,980 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/pom/8/pom-8.pom
+2018-06-17 18:58:51,071 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.22.1/jersey-server-2.22.1.pom
+2018-06-17 18:58:51,156 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.22.1/jersey-server-2.22.1.pom
+2018-06-17 18:58:51,247 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.22.1/jersey-client-2.22.1.pom
+2018-06-17 18:58:51,332 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.22.1/jersey-client-2.22.1.pom
+2018-06-17 18:58:51,422 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.22.1/jersey-media-jaxb-2.22.1.pom
+2018-06-17 18:58:51,509 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.22.1/jersey-media-jaxb-2.22.1.pom
+2018-06-17 18:58:51,600 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/project/2.22.1/project-2.22.1.pom
+2018-06-17 18:58:51,685 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/project/2.22.1/project-2.22.1.pom
+2018-06-17 18:58:51,775 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom
+2018-06-17 18:58:51,864 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom
+2018-06-17 18:58:51,954 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/2.22.1/jersey-media-moxy-2.22.1.pom
+2018-06-17 18:58:52,040 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/2.22.1/jersey-media-moxy-2.22.1.pom
+2018-06-17 18:58:52,134 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.22.1/jersey-entity-filtering-2.22.1.pom
+2018-06-17 18:58:52,220 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.22.1/jersey-entity-filtering-2.22.1.pom
+2018-06-17 18:58:52,317 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/project/2.22.1/project-2.22.1.pom
+2018-06-17 18:58:52,403 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/project/2.22.1/project-2.22.1.pom
+2018-06-17 18:58:52,496 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/2.6.0/org.eclipse.persistence.moxy-2.6.0.pom
+2018-06-17 18:58:52,585 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/2.6.0/org.eclipse.persistence.moxy-2.6.0.pom
+2018-06-17 18:58:52,687 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.0/org.eclipse.persistence.core-2.6.0.pom
+2018-06-17 18:58:52,786 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.0/org.eclipse.persistence.core-2.6.0.pom
+2018-06-17 18:58:52,876 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.0/org.eclipse.persistence.asm-2.6.0.pom
+2018-06-17 18:58:52,967 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.0/org.eclipse.persistence.asm-2.6.0.pom
+2018-06-17 18:58:53,057 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.pom
+2018-06-17 18:58:53,164 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.pom
+2018-06-17 18:58:53,254 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/json/1.0.4/json-1.0.4.pom
+2018-06-17 18:58:53,340 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/json/1.0.4/json-1.0.4.pom
+2018-06-17 18:58:53,428 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2018-06-17 18:58:53,514 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2018-06-17 18:58:53,601 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2018-06-17 18:58:53,693 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2018-06-17 18:58:53,783 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.pom
+2018-06-17 18:58:53,877 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.pom
+2018-06-17 18:58:53,977 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/2.22.1/jersey-container-servlet-2.22.1.jar
+2018-06-17 18:58:54,064 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet/2.22.1/jersey-container-servlet-2.22.1.jar
+2018-06-17 18:58:54,148 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.22.1/jersey-container-servlet-core-2.22.1.jar
+2018-06-17 18:58:54,321 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/containers/jersey-container-servlet-core/2.22.1/jersey-container-servlet-core-2.22.1.jar
+2018-06-17 18:58:54,416 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.22.1/jersey-common-2.22.1.jar
+2018-06-17 18:58:55,027 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-common/2.22.1/jersey-common-2.22.1.jar
+2018-06-17 18:58:55,128 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.1/jersey-guava-2.22.1.jar
+2018-06-17 18:58:55,954 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.22.1/jersey-guava-2.22.1.jar
+2018-06-17 18:58:56,035 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
+2018-06-17 18:58:56,123 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar
+2018-06-17 18:58:56,204 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar
+2018-06-17 18:58:56,377 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar
+2018-06-17 18:58:56,461 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/2.22.1/jersey-media-moxy-2.22.1.jar
+2018-06-17 18:58:56,549 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-moxy/2.22.1/jersey-media-moxy-2.22.1.jar
+2018-06-17 18:58:56,633 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.22.1/jersey-entity-filtering-2.22.1.jar
+2018-06-17 18:58:56,726 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/ext/jersey-entity-filtering/2.22.1/jersey-entity-filtering-2.22.1.jar
+2018-06-17 18:58:56,817 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/2.6.0/org.eclipse.persistence.moxy-2.6.0.jar
+2018-06-17 18:58:57,512 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.moxy/2.6.0/org.eclipse.persistence.moxy-2.6.0.jar
+2018-06-17 18:58:57,600 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.0/org.eclipse.persistence.core-2.6.0.jar
+2018-06-17 18:59:03,466 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.core/2.6.0/org.eclipse.persistence.core-2.6.0.jar
+2018-06-17 18:59:03,547 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.0/org.eclipse.persistence.asm-2.6.0.jar
+2018-06-17 18:59:03,958 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/org.eclipse.persistence.asm/2.6.0/org.eclipse.persistence.asm-2.6.0.jar
+2018-06-17 18:59:04,040 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar
+2018-06-17 18:59:04,208 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar
+2018-06-17 18:59:04,314 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.22.1/jersey-server-2.22.1.jar
+2018-06-17 18:59:05,296 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-server/2.22.1/jersey-server-2.22.1.jar
+2018-06-17 18:59:05,384 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.22.1/jersey-client-2.22.1.jar
+2018-06-17 18:59:05,562 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/core/jersey-client/2.22.1/jersey-client-2.22.1.jar
+2018-06-17 18:59:05,643 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.22.1/jersey-media-jaxb-2.22.1.jar
+2018-06-17 18:59:05,756 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/media/jersey-media-jaxb/2.22.1/jersey-media-jaxb-2.22.1.jar
+2018-06-17 18:59:05,837 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar
+2018-06-17 18:59:05,926 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar
+2018-06-17 18:59:06,011 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.4.0-b31/hk2-api-2.4.0-b31.jar
+2018-06-17 18:59:06,258 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-api/2.4.0-b31/hk2-api-2.4.0-b31.jar
+2018-06-17 18:59:06,339 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.4.0-b31/hk2-utils-2.4.0-b31.jar
+2018-06-17 18:59:06,510 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-utils/2.4.0-b31/hk2-utils-2.4.0-b31.jar
+2018-06-17 18:59:06,593 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b31/aopalliance-repackaged-2.4.0-b31.jar
+2018-06-17 18:59:06,700 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b31/aopalliance-repackaged-2.4.0-b31.jar
+2018-06-17 18:59:06,781 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.4.0-b31/javax.inject-2.4.0-b31.jar
+2018-06-17 18:59:06,867 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/javax.inject/2.4.0-b31/javax.inject-2.4.0-b31.jar
+2018-06-17 18:59:06,970 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.4.0-b31/hk2-locator-2.4.0-b31.jar
+2018-06-17 18:59:07,217 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/hk2/hk2-locator/2.4.0-b31/hk2-locator-2.4.0-b31.jar
+2018-06-17 18:59:07,302 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2018-06-17 18:59:07,973 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2018-06-17 18:59:08,071 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar
+2018-06-17 18:59:08,165 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar
+2018-06-17 18:59:08,247 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+2018-06-17 18:59:08,589 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+2018-06-17 18:59:08,691 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar
+2018-06-17 18:59:09,655 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar
+2018-06-17 18:59:13,441 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.6/maven-war-plugin-2.6.pom
+2018-06-17 18:59:13,527 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.6/maven-war-plugin-2.6.pom
+2018-06-17 18:59:13,817 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.6/maven-archiver-2.6.pom
+2018-06-17 18:59:13,919 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.6/maven-archiver-2.6.pom
+2018-06-17 18:59:14,016 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.8.1/plexus-archiver-2.8.1.pom
+2018-06-17 18:59:14,096 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.8.1/plexus-archiver-2.8.1.pom
+2018-06-17 18:59:14,175 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3/plexus-components-1.3.pom
+2018-06-17 18:59:14,250 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3/plexus-components-1.3.pom
+2018-06-17 18:59:14,332 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.pom
+2018-06-17 18:59:14,407 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.pom
+2018-06-17 18:59:14,489 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.3.2/plexus-io-2.3.2.pom
+2018-06-17 18:59:14,610 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.3.2/plexus-io-2.3.2.pom
+2018-06-17 18:59:14,688 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.2/plexus-components-1.2.pom
+2018-06-17 18:59:14,766 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.2/plexus-components-1.2.pom
+2018-06-17 18:59:14,855 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.9/commons-compress-1.9.pom
+2018-06-17 18:59:14,932 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.9/commons-compress-1.9.pom
+2018-06-17 18:59:15,008 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2018-06-17 18:59:15,203 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2018-06-17 18:59:15,290 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.4.1/plexus-io-2.4.1.pom
+2018-06-17 18:59:15,373 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.4.1/plexus-io-2.4.1.pom
+2018-06-17 18:59:15,458 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.9/plexus-archiver-2.9.pom
+2018-06-17 18:59:15,535 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.9/plexus-archiver-2.9.pom
+2018-06-17 18:59:15,611 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.4/plexus-io-2.4.pom
+2018-06-17 18:59:15,686 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.4/plexus-io-2.4.pom
+2018-06-17 18:59:15,775 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.4/xstream-1.4.4.pom
+2018-06-17 18:59:15,852 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.4/xstream-1.4.4.pom
+2018-06-17 18:59:15,927 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.4/xstream-parent-1.4.4.pom
+2018-06-17 18:59:16,006 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.4/xstream-parent-1.4.4.pom
+2018-06-17 18:59:16,082 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom
+2018-06-17 18:59:16,158 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/3/codehaus-parent-3.pom
+2018-06-17 18:59:16,242 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.3/maven-filtering-1.3.pom
+2018-06-17 18:59:16,320 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.3/maven-filtering-1.3.pom
+2018-06-17 18:59:16,397 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.6/maven-shared-utils-0.6.pom
+2018-06-17 18:59:16,475 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.6/maven-shared-utils-0.6.pom
+2018-06-17 18:59:16,555 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.pom
+2018-06-17 18:59:16,630 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.18/plexus-utils-3.0.18.pom
+2018-06-17 18:59:16,711 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19.pom
+2018-06-17 18:59:16,788 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19.pom
+2018-06-17 18:59:16,869 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/1.0/maven-mapping-1.0.pom
+2018-06-17 18:59:16,947 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/1.0/maven-mapping-1.0.pom
+2018-06-17 18:59:17,073 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.jar
+2018-06-17 18:59:17,150 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.jar
+2018-06-17 18:59:17,225 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.jar
+2018-06-17 18:59:17,319 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.jar
+2018-06-17 18:59:17,391 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.jar
+2018-06-17 18:59:17,471 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.jar
+2018-06-17 18:59:17,545 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2.jar
+2018-06-17 18:59:17,628 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2.jar
+2018-06-17 18:59:17,711 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.6/maven-archiver-2.6.jar
+2018-06-17 18:59:17,787 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.6/maven-archiver-2.6.jar
+2018-06-17 18:59:17,859 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.4.1/plexus-io-2.4.1.jar
+2018-06-17 18:59:18,029 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.4.1/plexus-io-2.4.1.jar
+2018-06-17 18:59:18,102 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.2/commons-io-2.2.jar
+2018-06-17 18:59:18,341 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.2/commons-io-2.2.jar
+2018-06-17 18:59:18,414 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.9/plexus-archiver-2.9.jar
+2018-06-17 18:59:18,510 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.9/plexus-archiver-2.9.jar
+2018-06-17 18:59:18,582 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.9/commons-compress-1.9.jar
+2018-06-17 18:59:18,895 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.9/commons-compress-1.9.jar
+2018-06-17 18:59:18,967 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21.jar
+2018-06-17 18:59:19,054 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21.jar
+2018-06-17 18:59:19,134 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.4/xstream-1.4.4.jar
+2018-06-17 18:59:19,585 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.4/xstream-1.4.4.jar
+2018-06-17 18:59:19,662 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.jar
+2018-06-17 18:59:19,959 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20.jar
+2018-06-17 18:59:20,033 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.3/maven-filtering-1.3.jar
+2018-06-17 18:59:20,129 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.3/maven-filtering-1.3.jar
+2018-06-17 18:59:20,203 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/1.0/maven-mapping-1.0.jar
+2018-06-17 18:59:20,277 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/1.0/maven-mapping-1.0.jar
+2018-06-17 18:59:23,119 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 18:59:23,122 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-17 18:59:23,123 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 18:59:23,125 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-17 18:59:23,128 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of apiBelezadodia
+2018-06-17 18:59:23,129 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for apiBelezadodia
+2018-06-17 18:59:23,168 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 18:59:24,348 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 18:59:24,378 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-17 18:59:24,379 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 18:59:24,380 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-17 19:01:09,658 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.beleza-do-dia:br.com.beleza-do-dia:0.0.1-SNAPSHOT @ C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\pom.xml.
+2018-06-17 19:01:10,436 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /br.com.beleza-do-dia/src
+2018-06-17 19:01:10,438 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /br.com.beleza-do-dia/src/test/java because it overlaps with /br.com.beleza-do-dia/src
+2018-06-17 19:01:10,731 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-06-17 19:01:11,032 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.beleza-do-dia:br.com.beleza-do-dia:0.0.1-SNAPSHOT @ C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\pom.xml.
+2018-06-17 19:01:11,528 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /br.com.beleza-do-dia/src
+2018-06-17 19:01:11,529 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /br.com.beleza-do-dia/src/test/java because it overlaps with /br.com.beleza-do-dia/src
+2018-06-17 19:01:11,689 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for br.com.beleza-do-dia
+2018-06-17 19:01:11,699 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-06-17 19:01:11,864 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:01:11,865 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:01:11,867 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:01:11,868 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:01:11,868 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of br.com.beleza-do-dia
+2018-06-17 19:01:11,868 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for br.com.beleza-do-dia
+2018-06-17 19:01:11,872 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:01:30,425 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:01:30,426 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:01:30,427 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:01:30,428 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:02:24,023 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.devmedia:rest-notas:0.0.1-SNAPSHOT @ C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\pom.xml.
+2018-06-17 19:02:24,835 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:02:24,836 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:02:24,837 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:02:24,838 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:02:24,838 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of br.com.beleza-do-dia
+2018-06-17 19:02:24,838 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for br.com.beleza-do-dia
+2018-06-17 19:02:24,841 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:02:31,274 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-06-17 19:02:31,524 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.devmedia:rest-notas:0.0.1-SNAPSHOT @ C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\pom.xml.
+2018-06-17 19:02:32,196 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /br.com.beleza-do-dia/src
+2018-06-17 19:02:32,197 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /br.com.beleza-do-dia/src/test/java because it overlaps with /br.com.beleza-do-dia/src
+2018-06-17 19:02:32,624 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for br.com.beleza-do-dia
+2018-06-17 19:02:32,633 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-06-17 19:02:32,902 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:02:32,918 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:02:32,927 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:02:32,929 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:02:32,929 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of br.com.beleza-do-dia
+2018-06-17 19:02:32,929 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for br.com.beleza-do-dia
+2018-06-17 19:02:32,947 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:05:36,893 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:05:36,894 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:05:36,895 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:05:36,896 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:05:49,752 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:05:49,752 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:05:49,753 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:05:49,754 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:07:06,706 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:07:06,707 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:07:06,707 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:07:06,708 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:07:51,301 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:07:51,302 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:07:51,303 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:07:51,304 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:07:57,505 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:07:57,506 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:07:57,507 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:07:57,508 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:09:16,690 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:09:16,691 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:09:16,691 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:09:16,692 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:09:17,770 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:09:17,771 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:09:17,772 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:09:17,772 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:09:54,169 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-06-17 19:09:54,411 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.devmedia:rest-notas:0.0.1-SNAPSHOT @ C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\pom.xml.
+2018-06-17 19:09:54,986 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /br.com.beleza-do-dia/src
+2018-06-17 19:09:54,986 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /br.com.beleza-do-dia/src/test/java because it overlaps with /br.com.beleza-do-dia/src
+2018-06-17 19:09:55,180 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for br.com.beleza-do-dia
+2018-06-17 19:09:55,189 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-06-17 19:09:55,646 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:09:55,647 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:09:55,648 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:09:55,649 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:09:55,650 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of br.com.beleza-do-dia
+2018-06-17 19:09:55,650 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for br.com.beleza-do-dia
+2018-06-17 19:09:55,655 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:10:33,286 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:10:33,287 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:10:33,288 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:10:33,289 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:11:59,610 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:11:59,610 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:11:59,610 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:11:59,610 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:16:52,275 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.devmedia:rest-notas:0.0.1-SNAPSHOT @ C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\pom.xml.
+2018-06-17 19:16:52,922 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:16:52,922 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:16:52,922 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:16:52,922 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:16:52,922 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of br.com.beleza-do-dia
+2018-06-17 19:16:52,922 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for br.com.beleza-do-dia
+2018-06-17 19:16:52,922 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:27:21,083 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:27:21,084 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:27:21,086 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:27:21,086 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:27:25,583 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:27:25,624 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:27:25,625 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:27:25,626 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:27:50,748 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:27:50,748 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:27:50,749 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:27:50,750 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:28:02,398 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:28:02,399 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:28:02,400 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:28:02,400 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:30:15,602 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:30:15,603 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:30:15,603 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:30:15,604 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:30:23,782 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:30:23,782 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:30:23,783 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:30:23,784 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:30:56,560 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:30:56,561 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:30:56,561 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:30:56,562 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:31:12,712 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:31:12,713 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:31:12,717 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:31:12,721 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:31:48,632 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:31:48,632 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:31:48,633 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:31:48,634 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:32:01,638 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:32:01,639 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:32:01,639 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:32:01,640 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:32:05,221 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:32:05,222 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:32:05,222 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:32:05,222 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:32:28,634 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:32:28,635 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:32:28,636 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:32:28,637 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:32:47,166 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:32:47,166 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:32:47,167 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:32:47,168 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:33:29,351 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:33:29,352 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:33:29,353 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:33:29,354 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:35:36,095 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:35:36,096 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:35:36,096 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:35:36,096 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:38:40,315 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:38:40,316 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:38:40,319 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:38:40,322 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:39:02,835 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:39:02,835 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:39:02,836 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:39:02,837 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:39:42,174 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:39:42,175 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:39:42,176 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:39:42,176 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:40:02,930 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:40:02,931 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:40:02,931 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:40:02,932 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:40:35,645 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:40:35,646 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:40:35,647 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:40:35,647 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:40:45,632 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:40:45,632 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:40:45,633 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:40:45,633 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:41:21,622 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:41:21,623 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:41:21,623 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:41:21,624 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:41:56,545 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:41:56,546 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:41:56,546 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:41:56,547 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:42:04,380 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:42:04,381 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:42:04,381 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:42:04,382 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:42:22,430 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:42:22,431 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:42:22,432 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:42:22,433 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:43:12,090 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:43:12,091 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:43:12,092 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:43:12,092 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:46:47,097 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:46:47,098 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:46:47,099 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:46:47,100 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:48:48,024 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:48:48,025 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:48:48,026 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:48:48,027 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:57:24,248 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:57:24,249 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:57:24,249 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:57:24,250 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:57:28,871 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:57:28,871 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:57:28,872 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:57:28,873 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:58:24,644 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.devmedia:rest-notas:0.0.1-SNAPSHOT @ C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\pom.xml.
+2018-06-17 19:58:25,472 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.3.1.Final/hibernate-entitymanager-5.3.1.Final.pom
+2018-06-17 19:58:25,566 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.3.1.Final/hibernate-entitymanager-5.3.1.Final.pom
+2018-06-17 19:58:26,123 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.3.1.Final/hibernate-entitymanager-5.3.1.Final.jar
+2018-06-17 19:58:26,191 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.3.1.Final/hibernate-entitymanager-5.3.1.Final.jar
+2018-06-17 19:58:27,019 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:58:27,019 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:58:27,019 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:58:27,019 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:58:27,019 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of br.com.beleza-do-dia
+2018-06-17 19:58:27,019 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for br.com.beleza-do-dia
+2018-06-17 19:58:27,019 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:58:28,384 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:58:28,384 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:58:28,384 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:58:28,384 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:58:37,683 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-06-17 19:58:37,919 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.devmedia:rest-notas:0.0.1-SNAPSHOT @ C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\pom.xml.
+2018-06-17 19:58:38,566 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /br.com.beleza-do-dia/src
+2018-06-17 19:58:38,566 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /br.com.beleza-do-dia/src/test/java because it overlaps with /br.com.beleza-do-dia/src
+2018-06-17 19:58:38,894 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for br.com.beleza-do-dia
+2018-06-17 19:58:38,894 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-06-17 19:58:39,342 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:58:39,342 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 19:58:39,358 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 19:58:39,358 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 19:58:39,358 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of br.com.beleza-do-dia
+2018-06-17 19:58:39,358 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for br.com.beleza-do-dia
+2018-06-17 19:58:39,358 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:00:52,130 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:00:52,131 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:00:52,131 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:00:52,133 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 20:01:13,707 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-06-17 20:01:13,910 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.devmedia:rest-notas:0.0.1-SNAPSHOT @ C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\pom.xml.
+2018-06-17 20:01:14,489 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /br.com.beleza-do-dia/src
+2018-06-17 20:01:14,489 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /br.com.beleza-do-dia/src/test/java because it overlaps with /br.com.beleza-do-dia/src
+2018-06-17 20:01:14,942 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for br.com.beleza-do-dia
+2018-06-17 20:01:14,957 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-06-17 20:01:15,457 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:01:15,457 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:01:15,457 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:01:15,457 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 20:01:15,457 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of br.com.beleza-do-dia
+2018-06-17 20:01:15,457 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for br.com.beleza-do-dia
+2018-06-17 20:01:15,457 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:02:15,739 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:02:15,739 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:02:15,739 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:02:15,739 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 20:03:20,099 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:03:20,146 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:03:20,146 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:03:20,146 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 20:03:58,101 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:03:58,101 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:03:58,101 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:03:58,101 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 20:06:03,303 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:06:03,303 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:06:03,303 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:06:03,303 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 20:11:09,765 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:11:09,766 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:11:09,767 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:11:09,768 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 20:12:00,026 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:12:00,026 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:12:00,027 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:12:00,028 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 20:12:05,595 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:12:05,596 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:12:05,597 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:12:05,598 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 20:14:27,594 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:14:27,595 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:14:27,597 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:14:27,597 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 20:14:32,239 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:14:32,240 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:14:32,241 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:14:32,241 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 20:14:45,669 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:14:45,671 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:14:45,672 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:14:45,673 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 20:14:57,892 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:14:57,893 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:14:57,894 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:14:57,895 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 20:21:14,122 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:21:14,124 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 20:21:14,126 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 20:21:14,126 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 21:34:06,921 [Worker-8] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-17 21:34:08,633 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 21:34:08,635 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 21:34:08,637 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 21:34:08,638 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources

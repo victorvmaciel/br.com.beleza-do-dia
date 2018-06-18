@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\victo\OneDrive\Documentos\api-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3067396753.index
+3388761141.index
+2834309840.index
+373618312.index
+345987091.index
+876205615.index
