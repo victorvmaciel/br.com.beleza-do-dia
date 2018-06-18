@@ -535,3 +535,7 @@
 2018-06-17 21:34:08,635 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
 2018-06-17 21:34:08,637 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-06-17 21:34:08,638 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
+2018-06-17 21:42:32,395 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 21:42:32,517 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\main\resources
+2018-06-17 21:42:32,520 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-17 21:42:32,521 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\victo\OneDrive\Documentos\api-workspace\br.com.beleza-do-dia\src\test\resources
